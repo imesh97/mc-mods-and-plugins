@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "megathings:mega_particle"
+    },
+    {
+      "item": "megathings:mega_particle"
+    },
+    {
+      "item": "megathings:mega_particle"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result":
+  {
+    "item": "megathings:mega_block",
+    "count": 1
+  }
+}

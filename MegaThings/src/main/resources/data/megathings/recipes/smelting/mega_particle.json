@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "result": "megathings:mega_particle",
+  "experience": 1.0,
+  "cookingtime": 120
+}

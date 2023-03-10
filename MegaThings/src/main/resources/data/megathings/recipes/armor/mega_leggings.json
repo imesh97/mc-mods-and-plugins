@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "x x",
+    "x x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "megathings:mega_particle"
+    }
+  },
+  "result":
+  {
+    "item": "megathings:mega_leggings",
+    "count": 1
+  }
+}

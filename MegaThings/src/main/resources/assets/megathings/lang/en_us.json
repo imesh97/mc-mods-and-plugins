@@ -1,0 +1,15 @@
+{
+  "item.megathings.mega_particle": "Mega Particle",
+  "block.megathings.mega_block": "Mega Block",
+  "item.megathings.mega_sword": "Mega Sword",
+  "item.megathings.mega_pickaxe": "Mega Pickaxe",
+  "item.megathings.mega_axe": "Mega Axe",
+  "item.megathings.mega_hoe": "Mega Hoe",
+  "item.megathings.mega_shovel": "Mega Shovel",
+  "item.megathings.mega_helmet": "Mega Helmet",
+  "item.megathings.mega_chestplate": "Mega Chestplate",
+  "item.megathings.mega_leggings": "Mega Leggings",
+  "item.megathings.mega_boots": "Mega Boots",
+  "entity.megathings.dog" : "Dog",
+  "item.megathings.dog_spawn_egg" : "Dog Spawn Egg"
+}
