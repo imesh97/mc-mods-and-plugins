@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PvPCoRTP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PvPCoRTP_jar</output-path>
+    <root id="archive" name="PvPCoRTP.jar">
+      <element id="module-output" name="PvPCoRTP" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/ess3/Essentials/Pre2.13.1.7/Essentials-Pre2.13.1.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

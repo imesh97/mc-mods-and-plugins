@@ -1,0 +1,5 @@
+name: NoTables
+main: xyz.imdafatboss.notables.Home
+version: 1.0
+author: imdafatboss
+description: Disable crafting tables, anvils, or even enchantment tables.

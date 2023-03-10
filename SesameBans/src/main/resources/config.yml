@@ -1,0 +1,15 @@
+prefix: '&cServer &7>'
+
+default:
+    kick: '&7This is the default kick reason.'
+
+sc-format: '&bSTAFF &7> &b&l%player% &f>> %message%'
+
+screen:
+    ban: '&cYou &7(%player%)&c are banned from this server for: &7[&a%reason%&7]&c. Please appeal on &bwww.site.com'
+    mute: '&cYou &7(%player%)&c are muted on this server for: &7[&a%reason%&7]&c. Please appeal on &bwww.site.com'
+    tempban: '&cYou &7(%player%)&c are tempbanned on this server for: &7[&a%reason%&7]&c. Expires in &a%time%'
+    tempmute: '&cYou &7(%player%)&c are tempmuted on this server for: &7[&a%reason%&7]&c. Expires in &a%time%'
+    ipban: '&cYou are IP banned. Please appeal on &bwww.site.com'
+
+randomtp-radius: 1500

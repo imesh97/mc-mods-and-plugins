@@ -1,0 +1,9 @@
+name: PvPCoRTP
+main: xyz.imdafatboss.pvpcortp.Home
+version: 1.0
+author: imdafatboss
+description: A random teleporter plugin for PvPCorporation
+
+commands:
+    rtp:
+        aliases: [wild]

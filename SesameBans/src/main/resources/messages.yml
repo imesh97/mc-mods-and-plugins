@@ -1,0 +1,39 @@
+no-permission: '&4You do not have permission!'
+player-only-cmd: '&cThis is a player-only command.'
+player-not-exist: '&cThis player does not exist, or has not played on this server.'
+player-offline: '&cThis player is offline.'
+usage:
+    staffchat: '&7/staffchat <message>'
+    ban: '&7/ban <player> <reason>'
+    unban: '&7/unban <player>'
+    mute: '&7/mute <player> <reason>'
+    unmute: '&7/unmute <player>'
+    kick: '&7/kick <player> [reason]'
+    tempban: '&7/tempban <player> <seconds> <reason>'
+    tempmute: '&7/tempmute <player> <seconds> <reason>'
+    ipban: '&7/ipban <player>'
+    unbanip: '&7/unbanip <player>'
+broadcast:
+    ban: '&7[&a%player%&7] has been &c&lbanned by [&a%banner%&7] on [&b%date%&7] for [&c%reason%&7]'
+    unban: '&7[&a%player%&7] has been &b&lunbanned by [&a%unbanner%&7] on [&b%date%&7]'
+    mute: '&7[&a%player%&7] has been &c&lmuted by [&a%muter%&7] on [&b%date%&7] for [&c%reason%&7]'
+    unmute: '&7[&a%player%&7] has been &b&lunmuted by [&a%unmuter%&7] on [&b%date%&7]'
+    kick: '&7[&a%player%&7] has been &c&lkicked by [&a%kicker%&7] on [&b%date%&7] for [&c%reason%&7]'
+    tempban: '&7[&a%player%&7] has been &c&ltempbanned by [&a%tempbanner%&7] for [&c%reason%&7]. Expires in &a%time%'
+    tempmute: '&7[&a%player%&7] has been &c&ltempmuted by [&a%tempmuter%&7] for [&c%reason%&7]. Expires in &a%time%'
+already:
+    banned: '&cThis user is already banned.'
+    muted: '&cThis user is already muted.'
+not:
+    banned: '&cThis user is not banned.'
+    muted: '&cThis user is not muted.'
+
+frozen: '&bYou have been frozen.'
+unfrozen: '&7You have been unfrozen.'
+
+vanished: '&8You have vanished.'
+unvanished: '&7You have unvanished.'
+
+staffmode:
+    activated: '&aYou have activated &7STAFF MODE.'
+    deactivated: '&cYou have deactivated &7STAFF MODE.'

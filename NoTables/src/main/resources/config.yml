@@ -1,0 +1,31 @@
+#
+# ------------------------------ #
+#
+#  NoTables 1.0
+#  Disable crafting tables, anvils, or even enchantment tables.
+#  Send a message to a player if they try to use one.
+#  (c) IMDAFATBOSS
+#
+# ------------------------------ #
+#
+# CONFIG HELP
+#
+# crafting-tables: false USE A TRUE/FALSE STATEMENT.
+# anvils: false USE A TRUE/FALSE STATEMENT.
+# enchantment-tables: false USE A TRUE/FALSE STATEMENT.
+#
+# messages: MESSAGES SENT WHEN A PLAYER TRIES USING A DISABLED TABLE.
+#  - '&bWE DONT LET YOU USE IT'
+#  - '&BPLEASE DONT USE IT'
+#  - '&BWE REMOVED THIS MECHANIC'
+#  - '&BFOR A REASON!'
+
+crafting-tables: false
+anvils: false
+enchantment-tables: false
+
+messages:
+  - '&bWE DONT LET YOU USE IT'
+  - '&BPLEASE DONT USE IT'
+  - '&BWE REMOVED THIS MECHANIC'
+  - '&BFOR A REASON!'

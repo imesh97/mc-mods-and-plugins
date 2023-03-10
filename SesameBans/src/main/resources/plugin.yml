@@ -1,0 +1,40 @@
+name: SesameBans
+main: xyz.imdafatboss.sesamebans.Home
+version: 1.0
+author: imdafatboss
+description: A ban management plugin
+
+commands:
+    staffchat:
+        description: Communicate with the other staff on the server
+        aliases: [sc, schat, staffc]
+    ban:
+        description: Ban a player
+        aliases: [banplayer, banp]
+    unban:
+        description: Unban a player
+        aliases: [unbanplayer, unbanp, uban]
+    mute:
+        description: Mute a player
+        aliases: [mutep, muteplayer]
+    unmute:
+        description: Unmute a player
+        aliases: [unmutep, unmuteplayer, umute]
+    kick:
+        description: Kick a player
+        aliases: [kickp, kickplayer]
+    tempban:
+        description: Tempban a player
+        aliases: [tempbanp, tempbanplayer, bantemp]
+    tempmute:
+        description: Tempmute a player
+        aliases: [tempmutep, tempmuteplayer, mutetemp]
+    staffmode:
+        description: Enter into staff mode
+        aliases: [staff, modestaff]
+    ipban:
+        description: Ban a player through IPs
+        aliases: [banip]
+    unbanip:
+        description: Unban a player through IPs
+        aliases: [ipunban]

@@ -1,0 +1,29 @@
+# ------------------------------ #
+#
+#  PvPCoRTP v1.0
+#  A random teleporter plugin
+#  (c) AS4P_RAJ | IMDAFATBOSS
+#
+# ------------------------------ #
+#
+
+prefix: '&6&lPvP&e&lCorporation &7\u00BB'
+
+neartp:
+    cost: 10000
+    range: 2000
+    perm: 'pvpco.rtp.near'
+
+mediumtp:
+    cost: 20000
+    range: 3500
+    perm: 'pvpco.rtp.medium'
+
+extremetp:
+    cost: 30000
+    range: 5000
+    perm: 'pvpco.rtp.extreme'
+
+no-perm: '&4You do not have permission.'
+not-enough: '&4You do not have enough &amoney &4for this.'
+tp-msg: '&7You have been teleported &b&l%distance% &bblocks &7away.'
